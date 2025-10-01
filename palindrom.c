@@ -16,6 +16,7 @@ if(num1==reverse)
 {
 printf("num1 is palindrome");
 
+
 }
 else {
     printf("not palindrome");
