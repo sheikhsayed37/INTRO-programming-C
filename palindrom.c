@@ -5,6 +5,8 @@ int main()
     printf("enter the value of num1=\n");
     scanf("%lld",&num1);
     temp=num1;
+
+    
     while(temp!=0)
     {
         reminder=temp%10;
