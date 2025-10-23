@@ -2,11 +2,14 @@
 #include <stdio.h>
 int main()
 {
+
 int num1,num2,lcm,gcd,n1,n2,remin;
 printf("Enter two values=\n");
 scanf("%d %d",&num1,num2);
+
 n1=num1;
 n2=num2;
+
 while(n2!=0)
 {
 remin=n1%n2;
